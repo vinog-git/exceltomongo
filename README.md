@@ -1,6 +1,6 @@
-##Convert from Excel to Mongo
+# Convert from Excel to Mongo
 
- Create collections with sheet name and insert records in the respective collection. 
+Create collections with sheet name and insert records in the respective collection. 
 
 Set the options for the DB along with the name/location of the workbook to extract data from.
 

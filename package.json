@@ -2,6 +2,18 @@
   "name": "exceltomongo",
   "version": "2.0.1",
   "description": "Save data from excel to mongo",
+  "keywords": [
+    "mongodb",
+    "excel",
+    "collection from excel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/vinog-git/exceltomongo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinog-git/exceltomongo/issues"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
